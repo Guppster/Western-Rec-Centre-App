@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "comguppsterwestern_rec_centre_app.httpsgithub.westernreccentreapp"
+        applicationId "me.gurpreetsingh.westernreccentreapp"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1

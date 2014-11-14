@@ -1,4 +1,4 @@
-package comguppsterwestern_rec_centre_app.httpsgithub.westernreccentreapp;
+package me.gurpreetsingh.westernreccentreapp;
 
 import android.app.Activity;
 import android.os.Bundle;
